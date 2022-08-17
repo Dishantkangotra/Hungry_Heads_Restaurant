@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&family=Handlee&family=Roboto:ital,wght@0,400;1,300&display=swap');
+.navbar{
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    left: 0%;
+    right: 0%;
+   
+}
+
+body{
+font-family: 'Dosis', sans-serif;
+font-family: 'Handlee', cursive;
+font-family: 'Roboto', sans-serif;
+}
+#head{
+    background-color: black;
+    padding-bottom: 5%;
+}
+h1{
+    color: orange;
+    font-weight: bolder; 
+   line-height: 30px;
+}
+#main-h1{
+    color: white;
+    padding-bottom: 5%;
+}
+#ist{
+    padding-left: 15%;
+}
+#h1_2nd{
+    padding-left: 50%;
+}
+
+#white{
+    color: white;
+    font-family: 'Dosis',sans-serif ;
+}
+.nav-item{
+    margin:1rem;
+    padding: 0.5%;
+}
+.head-info{
+padding: 20% 10%;
+}
+.head-img{
+    padding-top: 25%;
+}
+.box-img{
+    width:35%;
+    height:35%;
+}
+#features{
+    padding: 10% 5%;
+   
+}
+.box{
+    text-align: center;
+}
+#features h3{
+font-weight: bolder;
+color: gold;
+text-decoration: underline;
+}
+.box-img:hover{
+filter:drop-shadow(5px 5px 5px black);
+}
+.box p{
+    font-family: 'Handlee', cursive;
+    font-weight: bolder;
+}
+#reviews{
+    padding: 8%;
+    background-color:black;
+    color: white;
+    text-align: center;
+    font-family: 'Handlee', cursive;
+    margin-bottom: 3%;
+}
+.person{
+    width:8%;
+    height: 6%;
+    padding-bottom: 3%;
+}
+.article{
+    font-family: 'Handlee', cursive;
+    font-weight: bolder;
+    text-align: center;
+}
+
+
+.article img{
+width:80%;
+height: 80%;
+padding-bottom: 2%;
+}
+.socialmedia{
+    width: 30px;
+    height: 30px;
+   margin: 0 1%;
+}
+footer{
+    background-color: #ecb464;
+}
+#contacts{
+    margin: 5% 0%;
+    text-align: center;
+    padding: 5%;
+}
+footer h2{
+    font-family: 'Roboto', sans-serif; 
+    font-weight: bolder;
+    padding-bottom: 2%;
+    
+}
+.copyright{
+    font-family: 'Handlee', cursive;
+   font-weight: bolder;
+   padding-top: 1%;
+}
